@@ -2,7 +2,7 @@ const products = [
   {
     name: "Taza 11oz",
     price: "Q.40.00",
-    image: "https://via.placeholder.com/300x200",
+    image: "taza11oz.jpg",
   },
   {
     name: "Llavero",
