@@ -1,22 +1,22 @@
 const products = [
   {
-    name: "Producto 1",
-    price: "Q150",
+    name: "Taza 11oz",
+    price: "Q.40.00",
     image: "https://via.placeholder.com/300x200",
   },
   {
-    name: "Producto 2",
-    price: "Q200",
+    name: "Llavero",
+    price: "Q35.00",
     image: "https://via.placeholder.com/300x200",
   },
   {
-    name: "Producto 3",
-    price: "Q180",
+    name: "Cuadros",
+    price: "Q100.00",
     image: "https://via.placeholder.com/300x200",
   },
   {
-    name: "Producto 4",
-    price: "Q220",
+    name: "Gorras",
+    price: "Q.55.00",
     image: "https://via.placeholder.com/300x200",
   }
 ];
