@@ -2,7 +2,7 @@ const products = [
   {
     name: "Taza 11oz",
     price: "Q.40.00",
-    image: "‎img.zip/taza11oz.jpg.jpg",
+    image: "‎img/taza11oz.jpg",
   },
   {
     name: "Llavero",
