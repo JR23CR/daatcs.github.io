@@ -2,7 +2,7 @@ const products = [
   {
     name: "Taza 11oz",
     price: "Q.40.00",
-    image: "‎img/taza11oz.jpg",
+    image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdanitexbh.com.ar%2Fproductos%2Ftaza-de-ceramica-sublimable-importada-x36%2F&psig=AOvVaw2aDmdMdhWdUmj29F-uoUe_&ust=1742770816037000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICcja_lnowDFQAAAAAdAAAAABAE",
   },
   {
     name: "Llavero",
