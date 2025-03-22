@@ -12,7 +12,7 @@ const products = [
   {
     name: "Cuadros",
     price: "Q100.00",
-    image: "https://via.placeholder.com/300x200",
+    image: "img.zip/f352b03e1c5534d482de17ee9d3740ba.jpg",
   },
   {
     name: "Gorras",
